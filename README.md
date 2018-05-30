@@ -6,13 +6,13 @@ The main idea is that a sorting algorithm is applied on a matrix, row by row. Ea
 ## Insertion sort
 The first sorting algorithm I chose to look at is the [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) one. I first applied it to a square n x n matrix for which each row was a shuffled list of numbers from 0 to n-1. Here is the result for n = 64:
 
-![Insertion sort, size 64, to be added]()
+![Insertion sort, size 64](https://thumbs.gfycat.com/RawOfficialLeafhopper-size_restricted.gif)
 
 
 This result can be obtained by running the `insertion.py` file. The size of the matrix can be adapted by specifying the option `--size`, e.g.:
 ``` python insertion.py --size 24 ```
 will produce a file `insertion24.gif`:
 
-![Insertion sort, size 24](https://media.giphy.com/media/1wpOLbs2TrpV94zEuO/giphy.gif)
+![Insertion sort, size 24](https://thumbs.gfycat.com/PertinentBrightLamprey-size_restricted.gif)
 
 ## More to come!
